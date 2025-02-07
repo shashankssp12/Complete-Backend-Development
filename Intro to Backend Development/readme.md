@@ -13,9 +13,16 @@
 - IP Packet: IP header and IP Data
 - So get data in order, IP payload has to follow protocol TCP and there's another i.e UDP
 
-- What is HTTP: Hyper Text TP, it helps the browser to fetch information like websites/webpages,etc from the webservers 
+- What is HTTP: Hyper Text TP, it helps the browser to exchange information like websites/webpages,etc from the webservers 
 ![Image](images\image3.png)
 
+- HTTPS --> S is for encryption, we save things safely
+
+## What are Webpages, Websites and WebApplications? 
+
+- A Webpage may be a page build with Html,css and js and shows some information and content
+- A Website may have several Webpages
+- WebApplications are more interaction based they show dynamic content and is more personalized on the other hand the websites are more of informative and less in interactivity and dynamic content. 
 
 
 
