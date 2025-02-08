@@ -24,7 +24,8 @@
 - A Website may have several Webpages
 - WebApplications are more interaction based they show dynamic content and is more personalized on the other hand the websites are more of informative and less in interactivity and dynamic content. 
 
-
+## What are Libraties and FrameWorks ? 
+- A library is a resuable piece of code 
 
 
 
