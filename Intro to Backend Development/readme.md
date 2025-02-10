@@ -25,7 +25,16 @@
 - WebApplications are more interaction based they show dynamic content and is more personalized on the other hand the websites are more of informative and less in interactivity and dynamic content. 
 
 ## What are Libraties and FrameWorks ? 
-- A library is a resuable piece of code 
+- A library is a resuable piece of code and FrameWorks containts a set of libraries . Frameworks are built upon specified libraries that the framework is compatible with.
+
+## What are APIs and what are RESTful/REST APIs?
+
+- API stands for Application Programming Interface. It allows different software applications to communicate with each other.
+- REST stands for Representational State Transfer. RESTful APIs are based on REST principles, which use standard HTTP methods and are stateless, meaning each request from a client to a server must contain all the information needed to understand and process the request.
+- They serve as the middleware/gateway between the browser and the server.
+- The REST APIs are based on REST principles.
+
+
 
 
 
